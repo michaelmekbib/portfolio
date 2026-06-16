@@ -1084,5 +1084,78 @@
             articlesContainer.appendChild(item);
         });
     </script>
+
+<script>
+        // Populate Projects
+        const projects = [
+            { title: "PHEOC Digitization Initiative", desc: "Led the digital modernization and infrastructure deployment for Public Health Emergency Operations Centers across multiple member states." },
+            { title: "Continental Data-Sharing Framework", desc: "Coordinated architecture and governance frameworks to enhance real-time epidemiology data exchange across Africa." },
+            { title: "VPD Surveillance Data Modernization", desc: "Spearheaded the development of interconnected tracking systems for Vaccine-Preventable Diseases, streamlining facility-to-global reporting." }
+        ];
+        
+        const projectsContainer = document.getElementById('projects-container');
+        projects.forEach(p => {
+            projectsContainer.innerHTML += `
+                <div class="project-card">
+                    <h3>${p.title}</h3>
+                    <p>${p.desc}</p>
+                </div>
+            `;
+        });
+
+        // Populate Skills
+        const skills = [
+            { name: "Public Health Informatics", level: "95%" },
+            { name: "DHIS2 & CHIS Architecture", level: "90%" },
+            { name: "Data Modernization & Governance", level: "92%" },
+            { name: "System Integration & Interoperability", level: "88%" }
+        ];
+
+        const skillsContainer = document.getElementById('skills-container');
+        skills.forEach(s => {
+            skillsContainer.innerHTML += `
+                <div class="skill-card">
+                    <div class="skill-item">
+                        <div class="skill-name">${s.name}</div>
+                        <div class="skill-bar">
+                            <div class="skill-progress" style="width: ${s.level}"></div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        });
+
+        // Populate Publications
+        const publications = [
+            { title: "Strengthening Continental Health Security Through Digital Innovation", subtitle: "Presented at Global Health Informatics Conference" }
+        ];
+
+        const pubContainer = document.getElementById('publications-container');
+        publications.forEach(pub => {
+            pubContainer.innerHTML += `
+                <div class="list-item">
+                    <div class="list-item-content">
+                        <div class="list-item-title">${pub.title}</div>
+                        <div class="list-item-subtitle">${pub.subtitle}</div>
+                    </div>
+                </div>
+            `;
+        });
+
+        // Populate Memberships
+        const memberships = ["Global Health Informatics Network", "Public Health Digital Transformation Taskforce"];
+        const memContainer = document.getElementById('membership-container');
+        memberships.forEach(m => {
+            memContainer.innerHTML += `<div class="list-item"><div class="list-item-title">${m}</div></div>`;
+        });
+
+        // Populate Articles Reviewed
+        const articles = ["Informatics Frameworks in Low-Resource Settings", "Data Flow Interoperability in Disease Surveillance"];
+        const artContainer = document.getElementById('articles-container');
+        articles.forEach(a => {
+            artContainer.innerHTML += `<div class="list-item"><div class="list-item-title">${a}</div></div>`;
+        });
+    </script>
+    
 </body>
 </html>
