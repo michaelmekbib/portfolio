@@ -4,7 +4,7 @@
 
 **Project type:** Response analysis assistant  
 **Platform:** Microsoft Copilot  
-**Access:** Author-provided agent reference; availability and permissions not independently verified
+**Access:** Internal CDC
 
 ## Purpose and contribution
 
@@ -28,6 +28,6 @@ Summary based on the author-provided project description, resume, and Copilot re
 
 ## About this summary
 
-Prepared from author-provided project materials. This page describes Michael Sileshi Mekbib’s contribution to collaborative institutional work; it does not represent an official CDC endorsement or product release. Original presentations, manuscripts, institutional code, and internal records are not included here.
+This page describes Michael Sileshi Mekbib’s contribution to collaborative institutional work; it does not represent an official CDC endorsement or product release. Original presentations, manuscripts, institutional code, and internal records are not included here.
 
 [Project hub](../../../README.md) · [Portfolio](https://michaelmekbib.github.io/portfolio/) · [Contact](mailto:mikiethio@gmail.com)
