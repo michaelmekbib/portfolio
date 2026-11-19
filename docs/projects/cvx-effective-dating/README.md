@@ -1,39 +1,52 @@
-# CVX Effective Dating
+# Modernizing CVX Effective Dates
 
-An editorial framework and AI-assisted evidence workflow for historical vaccine-code availability.
+**An evidence-based editorial framework for documenting when vaccine products represented by CVX codes were available for administration.**
 
-**Status:** Ongoing  
-**Contribution:** Michael Sileshi Mekbib  
-**Repository contents:** Project case study. This directory contains documentation; institutional application source is not included.
+**Status:** Ongoing; validation and expert review in progress  
+**My role:** Capstone lead; framework, decision logic, evidence workflow, and maintenance approach  
+**Tools:** Python, CVX/NDC terminology, regulatory records, historical research, AI-assisted evidence synthesis
 
-## Problem
+## The challenge
 
-Incomplete historical availability information makes it difficult to assess whether vaccine codes are temporally plausible in historical immunization records.
+Historical vaccine availability evidence is distributed across regulatory records, product marketing information, and historical documentation. Code creation dates and marketing milestones do not necessarily describe the complete period of product use. The project addresses the question: was the vaccine product available when a historical administration was recorded?
 
-## My contribution
+The scope is product availability and temporal plausibility, rather than a complete assessment of dose validity.
 
-Led the framework, evidence hierarchy, decision tree, hybrid pipeline, and proposed governance and maintenance approach.
+## What I developed
 
-## Results and scope
+A five-stage approach connects inventory, evidence, editorial decisions, date derivation, and continuing maintenance:
 
-Inventoried 197 CVX codes: 158 require effective dates, 75 link to traceable NDC marketing dates, and 83 require historical research. Validation and expert review remain ongoing.
+1. Inventory CVX codes, classify their characteristics, and review NDC mappings.
+2. Collect and synthesize regulatory and historical evidence.
+3. Apply a standardized evidence hierarchy, decision tree, and adjudication rules.
+4. Derive proposed dates through a structured pipeline and expert review.
+5. Plan machine-readable publication and prospective maintenance.
 
-## Tools and methods
+The framework accommodates legacy products, non-US vaccines, unspecified formulations, and codes without traceable NDC information. Dates need evidence appropriate to the product and geography. For US-use timelines, the project’s end-date convention is the last documented year of US use, rather than code inactivation alone.
 
-Python, CVX/NDC terminology, Excel, regulatory and historical evidence, AI-assisted synthesis.
+## Documented progress
 
-## Explore the work
+| Inventory finding | Count |
+| --- | --- |
+| CVX codes inventoried | 197 |
+| Codes requiring effective dates | 158 |
+| Codes linked to traceable NDC marketing dates | 75 |
+| Codes requiring historical documentation | 83 |
 
-[View the dashboard or portfolio case study](https://michaelmekbib.github.io/portfolio/#cdc-cvx)
+The 75 and 83 groups describe the 158 codes requiring dates. These are inventory and evidence-workload counts, not counts of approved or published effective dates.
 
-## Access and limitations
+## Next steps
 
-This case study describes the methodology. It does not supply an authoritative effective-date dataset or a clinically validated decision-support product. The project considers historical periods of US use; terminology status alone does not establish the last year of use.
+Continue historical research and validation; complete expert review; prepare machine-readable datasets and stable CVX identifiers; and establish governance for updates at product introduction and withdrawal. Publication and integration remain planned stages.
 
-## Ownership and reuse
+## Source and access
 
-This case study describes my contribution to collaborative institutional work. Public documentation does not imply institutional endorsement or permission to redistribute institutional source code, data, images, or other materials. Reuse permissions depend on the rights attached to each item.
+Summary based on *Modernizing CVX Code Effective Dates by Integrating Real-World Evidence*, particularly slides 14–22 of the supplied capstone presentation.
 
-## Contact
+[View portfolio case study](https://michaelmekbib.github.io/portfolio/#cdc-cvx)
 
-[Michael Sileshi Mekbib](https://linkedin.com/in/michaelsileshi) · [Portfolio](https://michaelmekbib.github.io/portfolio/)
+## About this summary
+
+Prepared from author-provided project materials. This page describes Michael Sileshi Mekbib’s contribution to collaborative institutional work; it does not represent an official CDC endorsement or product release. Original presentations, manuscripts, institutional code, and internal records are not included here.
+
+[Project hub](../../../README.md) · [Portfolio](https://michaelmekbib.github.io/portfolio/) · [Contact](mailto:mikiethio@gmail.com)

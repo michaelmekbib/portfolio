@@ -8,14 +8,24 @@ My experience spans **US CDC, Africa CDC, WHO, AFENET, the Tony Blair Institute,
 
 ## Selected work
 
-| Project | Contribution and scope | Status |
+Explore the problem, my contribution, documented outputs, and current status. Summaries draw on author-provided project reports and presentations; proposals and feasibility findings are distinguished from deployed results.
+
+| Project | Contribution or documented output | Status |
 | --- | --- | --- |
-| [Publications dashboard](https://michaelmekbib.github.io/publication-monitoring/) | Built a searchable public interface for discovering and monitoring research publications. | Public dashboard |
-| [CVX effective dating](https://michaelmekbib.github.io/portfolio/#cdc-cvx) | Developed an editorial framework and AI-assisted evidence workflow; inventoried 197 vaccine codes, including 158 requiring effective dates. | Validation in progress |
-| [AI workplan and data quality analyzer](https://michaelmekbib.github.io/portfolio/#cdc-workplan) | Built a Python and Streamlit prototype with page-linked evidence, structured review, and human adjudication. | Pilot prototype |
-| [Participatory onboarding](https://michaelmekbib.github.io/portfolio/#cdc-onboarding) | Designed the onboarding model, knowledge system, and information assistant; reached 81% participation and mapped 30+ projects. | Implemented knowledge system |
-| [PHEOC digital systems](https://michaelmekbib.github.io/portfolio/#projects) | Led emergency operations digitization and data-management training across 23+ African Union member states. | Project leadership and support |
-| [Ebola response screening operations](https://michaelmekbib.github.io/portfolio/#cdc-ebola) | Supported the 2026 response and authored a proposed “one passenger, one record” screening capability. | Concept under review |
+| [CVX effective dating](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/cvx-effective-dating/README.md) | Editorial framework and evidence workflow; 197 codes inventoried and 158 identified as needing dates. | Ongoing; validation in progress |
+| [One Passenger One Record](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/screening-operations-concept/README.md) | A proposed integrated screening workflow for manifest import, worklists, assessments, and exception review. | Innovation concept under review |
+| [Info-Aid feasibility assessment](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/info-aid-feasibility/README.md) | Assessed SharePoint and Power Platform for accreditation workflows; identified technical fit and implementation conditions. | Assessment completed |
+| [Participatory onboarding](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/participatory-onboarding/README.md) | 34 of 42 staff participated (81%); 30 project and resource records organized during an eight-week implementation. | Implemented knowledge resource |
+| [AI workplan and data quality analyzer](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/ai-workplan-analyzer/README.md) | Structured, source-linked workplan review with human adjudication. | Pilot prototype |
+| [PHEOC digital systems](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/pheoc-digital-systems/README.md) | Emergency operations digitization and data-management capacity building. | Project leadership and support |
+| [Publications dashboard](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/publication-monitoring/README.md) | Browser-based publication discovery and monitoring. | Public dashboard |
+
+## Agents and knowledge tools
+
+| Agent | Focus | Access |
+| --- | --- | --- |
+| [IDAB Information Assistant](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/idab-information-assistant/README.md) | Conversational access to project and organizational knowledge. | Institutional link supplied; access not verified |
+| [Ebola population mobility analysis agent](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/ebola-mobility-analysis-agent/README.md) | Copilot-based assistance for population mobility analysis. | Agent entry point supplied in case study; access not verified |
 
 ## Public repositories
 

@@ -19,16 +19,24 @@ Experience spans US CDC, Africa CDC, WHO, AFENET, the Tony Blair Institute, and 
 
 ## Selected project case studies
 
-These case studies describe my contribution, scope, tools, and implementation status. Institutional project documentation and public application source are identified separately.
+Explore the problem, my contribution, documented outputs, and current status. Summaries draw on author-provided project reports and presentations; proposals and feasibility findings are distinguished from deployed results.
 
-| Case study | Status |
-| --- | --- |
-| [AI Workplan and Data Quality Analyzer](docs/projects/ai-workplan-analyzer/README.md) | Functional prototype; pilot   |
-| [CVX Effective Dating](docs/projects/cvx-effective-dating/README.md) | Capstone; validation in progress   |
-| [Informatics Driven Participatory Onboarding](docs/projects/participatory-onboarding/README.md) | Implemented knowledge system; continuing asset   |
-| [PHEOC Digital Systems](docs/projects/pheoc-digital-systems/README.md) | Project leadership and implementation support   |
-| [Publications Dashboard](docs/projects/publication-monitoring/README.md) | Public dashboard   |
-| [Ebola Response Screening Operations Concept](docs/projects/screening-operations-concept/README.md) | Concept and recommendation under review   |
+| Project | Contribution or documented output | Status |
+| --- | --- | --- |
+| [CVX effective dating](docs/projects/cvx-effective-dating/README.md) | Editorial framework and evidence workflow; 197 codes inventoried and 158 identified as needing dates. | Ongoing; validation in progress |
+| [One Passenger One Record](docs/projects/screening-operations-concept/README.md) | A proposed integrated screening workflow for manifest import, worklists, assessments, and exception review. | Innovation concept under review |
+| [Info-Aid feasibility assessment](docs/projects/info-aid-feasibility/README.md) | Assessed SharePoint and Power Platform for accreditation workflows; identified technical fit and implementation conditions. | Assessment completed |
+| [Participatory onboarding](docs/projects/participatory-onboarding/README.md) | 34 of 42 staff participated (81%); 30 project and resource records organized during an eight-week implementation. | Implemented knowledge resource |
+| [AI workplan and data quality analyzer](docs/projects/ai-workplan-analyzer/README.md) | Structured, source-linked workplan review with human adjudication. | Pilot prototype |
+| [PHEOC digital systems](docs/projects/pheoc-digital-systems/README.md) | Emergency operations digitization and data-management capacity building. | Project leadership and support |
+| [Publications dashboard](docs/projects/publication-monitoring/README.md) | Browser-based publication discovery and monitoring. | Public dashboard |
+
+## Agents and knowledge tools
+
+| Agent | Focus | Access |
+| --- | --- | --- |
+| [IDAB Information Assistant](docs/projects/idab-information-assistant/README.md) | Conversational access to project and organizational knowledge. | Institutional link supplied; access not verified |
+| [Ebola population mobility analysis agent](docs/projects/ebola-mobility-analysis-agent/README.md) | Copilot-based assistance for population mobility analysis. | Agent entry point supplied in case study; access not verified |
 
 ## Technical focus
 
