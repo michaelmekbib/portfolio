@@ -1,39 +1,27 @@
 # Publications Dashboard
 
-A searchable dashboard for discovering and monitoring research publications.
+I designed and developed a public dashboard for discovering, monitoring, and sharing research publications.
 
 **Status:** Public dashboard  
-**Contribution:** Michael Sileshi Mekbib  
-**Repository contents:** Project case study. The dashboard source is maintained in the [publication-monitoring repository](https://github.com/michaelmekbib/publication-monitoring).
+**Tools:** HTML, CSS, JavaScript, Chart.js, SheetJS, GitHub Pages
 
-## Problem
+## The challenge
 
-Repeated, one-off publication searches make research output difficult to monitor, communicate, and reuse.
+Repeated publication searches make research output difficult to monitor and communicate. A shared dashboard gives teams a consistent place to explore records and understand publication activity.
 
 ## My contribution
 
-Designed and developed the public-facing dashboard, information structure, search and filtering experience, and publication-oriented views.
+I developed the information structure, interface, filtering, charts, and publication-monitoring experience.
 
-## Results and scope
+## Features
 
-Established a repeatable public entry point for exploring publications and sharing research output.
+- Automatic loading from an Excel workbook, with manual upload support.
+- Filters by branch, publication status, type, author, and year.
+- Summary metrics, charts, and a publication table.
+- CSV export of filtered records.
 
-## Tools and methods
+## Explore
 
-Web development, GitHub Pages, publication metadata, search and filtering, data visualization.
+[Open the dashboard](https://michaelmekbib.github.io/publication-monitoring/) · [View the source code](https://github.com/michaelmekbib/publication-monitoring)
 
-## Explore the work
-
-[View the dashboard or portfolio case study](https://michaelmekbib.github.io/publication-monitoring/)
-
-## Access and limitations
-
-The public dashboard is linked below. This case study links to the public dashboard and its source repository.
-
-## Ownership and reuse
-
-This case study describes my contribution to collaborative institutional work. Public documentation does not imply institutional endorsement or permission to redistribute institutional source code, data, images, or other materials. Reuse permissions depend on the rights attached to each item.
-
-## Contact
-
-[Michael Sileshi Mekbib](https://linkedin.com/in/michaelsileshi) · [Portfolio](https://michaelmekbib.github.io/portfolio/)
+[Project hub](../../../README.md) · [Portfolio](https://michaelmekbib.github.io/portfolio/) · [Contact](mailto:mikiethio@gmail.com)

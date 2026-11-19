@@ -8,9 +8,9 @@ My experience spans **US CDC, Africa CDC, WHO, AFENET, the Tony Blair Institute,
 
 ## Selected work
 
-Explore the problem, my contribution, documented outputs, and current status. Summaries draw on author-provided project reports and presentations; proposals and feasibility findings are distinguished from deployed results.
+I develop tools, information systems, and implementation approaches for public health. Explore my contribution and results across these projects.
 
-| Project | Contribution or documented output | Status |
+| Project | My contribution and results | Status |
 | --- | --- | --- |
 | [CVX effective dating](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/cvx-effective-dating/README.md) | Editorial framework and evidence workflow; 197 codes inventoried and 158 identified as needing dates. | Ongoing; validation in progress |
 | [One Passenger One Record](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/screening-operations-concept/README.md) | A proposed integrated screening workflow for manifest import, worklists, assessments, and exception review. | Innovation concept under review |
@@ -24,8 +24,8 @@ Explore the problem, my contribution, documented outputs, and current status. Su
 
 | Agent | Focus | Access |
 | --- | --- | --- |
-| [IDAB Information Assistant](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/idab-information-assistant/README.md) | Conversational access to project and organizational knowledge. | Institutional link supplied; access not verified |
-| [Ebola population mobility analysis agent](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/ebola-mobility-analysis-agent/README.md) | Copilot-based assistance for population mobility analysis. | Agent entry point supplied in case study; access not verified |
+| [IDAB Information Assistant](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/idab-information-assistant/README.md) | Conversational access to project and organizational knowledge. | Authorized institutional users |
+| [Ebola population mobility analysis agent](https://github.com/michaelmekbib/portfolio/blob/main/docs/projects/ebola-mobility-analysis-agent/README.md) | Copilot-based assistance for population mobility analysis. | Internal CDC |
 
 ## Public repositories
 
@@ -43,9 +43,9 @@ Explore the problem, my contribution, documented outputs, and current status. Su
 
 ## Research and professional contributions
 
-- Presented work on participatory onboarding and CVX effective dating at AMIA conferences in 2025 and 2026.
-- Contributed to publications and peer review in public health, medical informatics, and population data science.
-- Received recognition for system modernization through informatics collaboration and support to the 2026 Ebola response.
+- I presented work on participatory onboarding and CVX effective dating at AMIA conferences in 2025 and 2026.
+- I contributed to publications and peer review in public health, medical informatics, and population data science.
+- I received recognition for system modernization through informatics collaboration and support to the 2026 Ebola response.
 
 [Explore publications, presentations, and project details →](https://michaelmekbib.github.io/portfolio/)
 

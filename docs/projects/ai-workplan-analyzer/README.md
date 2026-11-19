@@ -1,39 +1,28 @@
 # AI Workplan and Data Quality Analyzer
 
-A review application that connects workplan findings to page-level source evidence.
+I built an application that connects workplan findings to page-level evidence and supports consistent review of public health data-quality activities.
 
-**Status:** Functional prototype; pilot  
-**Contribution:** Michael Sileshi Mekbib  
-**Repository contents:** Project case study. This directory contains documentation; institutional application source is not included.
+**Status:** Functional prototype in pilot  
+**Tools:** Python, Streamlit, Azure OpenAI, Entra ID, PyMuPDF, pandas
 
-## Problem
+## The challenge
 
-Manual workplan review is time-intensive, and dispersed evidence can make conclusions difficult to reproduce.
+Workplan review requires finding relevant evidence across lengthy documents, applying consistent criteria, and explaining how each conclusion was reached.
 
 ## My contribution
 
-Designed and built PDF parsing, passage retrieval, structured Azure OpenAI analysis, confidence calibration, human-review workflows, and report exports.
+I designed and built the end-to-end workflow:
 
-## Results and scope
+- Parse PDFs and retrieve relevant passages.
+- Apply structured Azure OpenAI analysis.
+- Calibrate confidence and review potential false positives.
+- Capture reviewer corrections and decisions.
+- Export findings to Excel, Word, PDF, and CSV.
 
-Produces source-linked evidence, status, strength, confidence, and gap summaries. Final determinations remain reviewer-controlled. No measured time-saving claim is made.
+## What it delivers
 
-## Tools and methods
+The application brings together page-linked evidence, status, strength, confidence, gaps, and summary views. Reviewers retain control of final determinations and can inspect the source material behind each finding.
 
-Python, Streamlit, Azure OpenAI, Entra ID, PyMuPDF, pandas.
+[Explore the portfolio project](https://michaelmekbib.github.io/portfolio/#cdc-workplan)
 
-## Explore the work
-
-[View the dashboard or portfolio case study](https://michaelmekbib.github.io/portfolio/#cdc-workplan)
-
-## Access and limitations
-
-Documentation only. The internal prototype, authentication configuration, and recipient workplans are not included.
-
-## Ownership and reuse
-
-This case study describes my contribution to collaborative institutional work. Public documentation does not imply institutional endorsement or permission to redistribute institutional source code, data, images, or other materials. Reuse permissions depend on the rights attached to each item.
-
-## Contact
-
-[Michael Sileshi Mekbib](https://linkedin.com/in/michaelsileshi) · [Portfolio](https://michaelmekbib.github.io/portfolio/)
+[Project hub](../../../README.md) · [Portfolio](https://michaelmekbib.github.io/portfolio/) · [Contact](mailto:mikiethio@gmail.com)

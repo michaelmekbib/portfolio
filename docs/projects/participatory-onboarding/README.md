@@ -1,52 +1,42 @@
 # Participatory Onboarding and Relational Knowledge Mapping
 
-**An eight-week implementation that converted dispersed worksite knowledge into a shared SharePoint source and Power BI knowledge map.**
+I developed an onboarding model that turns conversations, project information, and organizational knowledge into a shared resource for staff and future newcomers.
 
-**Status:** Implemented knowledge resource; implementation report supplied as a manuscript  
-**My role:** Model design, staff engagement, document review, information architecture, dashboard development, and iterative refinement  
+**Status:** Implemented knowledge resource  
 **Tools:** SharePoint, Power BI, Microsoft Teams, structured interviews, document review
 
 ## The challenge
 
-A newcomer needed to understand how people, projects, dependencies, expertise, data workflows, and stakeholders connected within a public health worksite. Administrative orientation did not provide a consolidated view of those operational relationships.
+Understanding a public health worksite requires more than an organizational chart. New staff need to discover how projects connect, where expertise sits, which workflows depend on one another, and where they can contribute.
 
-## The approach
+## My approach
 
-| Component | Purpose |
+I designed and implemented four iterative components during my first eight weeks at the worksite:
+
+| Component | What I did |
 | --- | --- |
-| Initialize | Establish reciprocal context about the newcomer’s experience and existing staff roles. |
-| Discover | Conduct 25–30 minute semi-structured interviews about projects, dependencies, and work practices. |
-| Assess | Add formal context through organizational and project document review. |
-| Blend | Organize selected information in SharePoint and present relationships in Power BI. |
+| Initialize | Established reciprocal context about my experience, responsibilities, and colleagues’ work. |
+| Discover | Conducted 25–30 minute interviews about roles, projects, dependencies, and collaboration. |
+| Assess | Reviewed organizational materials, procedures, project guidance, and supporting documents. |
+| Blend | Organized the knowledge in SharePoint and built relational views in Power BI. |
 
-The components were iterative. Staff feedback could prompt further interviews, source corrections, or changes to the visualizations. Separating maintained source data from the dashboard allowed information to change without rebuilding a static report.
+I refined the source and dashboard through staff feedback. Separating the maintained source from the visualization allowed the knowledge map to evolve as projects and relationships changed.
 
-## Documented implementation results
+## Results
 
-| Indicator | Reported result |
+| Indicator | Result |
 | --- | --- |
-| Implementation period | First 8 weeks of one newcomer’s tenure |
-| Participation | 34 of 42 eligible staff members, reported as 81% |
-| Interview format | 27 virtual; 7 in person |
-| Structured knowledge resource | 30 project and resource records |
-| Early engagement | Team discussions on day 1; branch project contribution within 2 months |
+| Participation | 34 of 42 eligible staff members, or 81% |
+| Interviews | 27 virtual and 7 in person |
+| Knowledge resource | 30 project and resource records |
+| Early engagement | Team discussions on day 1; project contribution within 2 months |
 
-The resource linked project descriptions with contacts, stakeholders, dependencies, expertise, lifecycle contributions, and supporting references. It remained available as a shared organizational reference after onboarding.
+The dashboard connects project descriptions, contacts, stakeholders, dependencies, expertise, lifecycle contributions, and reference materials. It remains a shared worksite resource beyond the initial onboarding period.
 
-These findings describe one implementation. There was no comparison group or long-term follow-up, so they do not establish a quantified improvement in onboarding speed, retention, or sustained performance. Existing enterprise tools were used without new software procurement; staff time was not monetized.
+## Continuing development
 
-## Related IDAB Information Assistant
+I extended this work through the [IDAB Information Assistant](../idab-information-assistant/README.md), adding conversational access to organizational and project knowledge.
 
-The [IDAB agent](../idab-information-assistant/README.md) is a related conversational access tool described in the portfolio. The manuscript evaluates the participatory onboarding and knowledge-mapping implementation; its participation and early-engagement results should not be read as an evaluation of the agent.
-
-## Source and access
-
-Summary based on *Informatics Driven Participatory Onboarding and Relational Knowledge Mapping at a Public Health Work Site: An Implementation Report*. The supplied manuscript identifies a target journal; publication or acceptance is not established by that label.
-
-The report states that the underlying workforce workbook and dashboard are internal. Staff directories, contact records, and internal knowledge sources are not reproduced here.
-
-## About this summary
-
-Prepared from author-provided project materials. This page describes Michael Sileshi Mekbib’s contribution to collaborative institutional work; it does not represent an official CDC endorsement or product release. Original presentations, manuscripts, institutional code, and internal records are not included here.
+[Explore the portfolio project](https://michaelmekbib.github.io/portfolio/#cdc-onboarding)
 
 [Project hub](../../../README.md) · [Portfolio](https://michaelmekbib.github.io/portfolio/) · [Contact](mailto:mikiethio@gmail.com)

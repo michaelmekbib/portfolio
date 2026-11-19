@@ -4,9 +4,9 @@
 
 # Michael Sileshi Mekbib
 
-Public health informatics and digital health specialist with **13+ years of experience**, supporting programs across **30+ countries**. My work connects information systems, analytics, and implementation to the needs of public health teams.
+I’m a public health informatics and digital health specialist with **13+ years of experience**, supporting programs across **30+ countries**. My work connects information systems, analytics, and implementation to the needs of public health teams.
 
-Experience spans US CDC, Africa CDC, WHO, AFENET, the Tony Blair Institute, and Ethiopia’s Ministry of Health. This repository is the entry point to my portfolio, public code, and selected project case studies.
+My experience spans US CDC, Africa CDC, WHO, AFENET, the Tony Blair Institute, and Ethiopia’s Ministry of Health. This repository is the entry point to my portfolio, public code, and selected project case studies.
 
 ## Explore public code
 
@@ -19,9 +19,9 @@ Experience spans US CDC, Africa CDC, WHO, AFENET, the Tony Blair Institute, and 
 
 ## Selected project case studies
 
-Explore the problem, my contribution, documented outputs, and current status. Summaries draw on author-provided project reports and presentations; proposals and feasibility findings are distinguished from deployed results.
+I develop tools, information systems, and implementation approaches for public health. Explore my contribution and results across these projects.
 
-| Project | Contribution or documented output | Status |
+| Project | My contribution and results | Status |
 | --- | --- | --- |
 | [CVX effective dating](docs/projects/cvx-effective-dating/README.md) | Editorial framework and evidence workflow; 197 codes inventoried and 158 identified as needing dates. | Ongoing; validation in progress |
 | [One Passenger One Record](docs/projects/screening-operations-concept/README.md) | A proposed integrated screening workflow for manifest import, worklists, assessments, and exception review. | Innovation concept under review |
@@ -35,8 +35,8 @@ Explore the problem, my contribution, documented outputs, and current status. Su
 
 | Agent | Focus | Access |
 | --- | --- | --- |
-| [IDAB Information Assistant](docs/projects/idab-information-assistant/README.md) | Conversational access to project and organizational knowledge. | Institutional link supplied; access not verified |
-| [Ebola population mobility analysis agent](docs/projects/ebola-mobility-analysis-agent/README.md) | Copilot-based assistance for population mobility analysis. | Agent entry point supplied in case study; access not verified |
+| [IDAB Information Assistant](docs/projects/idab-information-assistant/README.md) | Conversational access to project and organizational knowledge. | Authorized institutional users |
+| [Ebola population mobility analysis agent](docs/projects/ebola-mobility-analysis-agent/README.md) | Copilot-based assistance for population mobility analysis. | Internal CDC |
 
 ## Technical focus
 
@@ -44,9 +44,9 @@ Explore the problem, my contribution, documented outputs, and current status. Su
 **Health information systems:** DHIS2, IIS, EHR, HL7, CVX/NDC, data quality and governance  
 **AI and workflows:** Azure OpenAI, Streamlit, SharePoint, Power Apps, Power Automate
 
-## About this website
+## Run the portfolio locally
 
-The published portfolio is served from `index.html`. The repository also contains an alternate HTML file, `indexbb.html`. The project case studies are Markdown documentation under `docs/projects/`.
+My portfolio is served from `index.html`, with project details in `docs/projects/`.
 
 To preview the static website locally with Python installed:
 

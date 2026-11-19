@@ -1,13 +1,15 @@
 # Project Case Studies
 
+My work in public health informatics, digital health, analytics, and AI.
+
 | Project | Summary |
 | --- | --- |
 | [CVX effective dating](cvx-effective-dating/README.md) | Editorial framework and historical availability evidence workflow. |
 | [One Passenger One Record](screening-operations-concept/README.md) | Integrated screening-operations innovation concept. |
 | [Info-Aid feasibility assessment](info-aid-feasibility/README.md) | Conditional feasibility of SharePoint and Power Platform modernization. |
 | [Participatory onboarding](participatory-onboarding/README.md) | Implementation report and relational knowledge mapping. |
-| [IDAB Information Assistant](idab-information-assistant/README.md) | Related organizational knowledge agent. |
-| [Ebola mobility analysis agent](ebola-mobility-analysis-agent/README.md) | Copilot-based response analysis assistant described by the author. |
+| [IDAB Information Assistant](idab-information-assistant/README.md) | Conversational access to organizational and project knowledge. |
+| [Ebola mobility analysis agent](ebola-mobility-analysis-agent/README.md) | Copilot-based population mobility analysis for Ebola response. |
 | [AI workplan analyzer](ai-workplan-analyzer/README.md) | Evidence-linked review prototype. |
 | [PHEOC digital systems](pheoc-digital-systems/README.md) | Emergency operations digitization and training. |
 | [Publications dashboard](publication-monitoring/README.md) | Public research monitoring dashboard. |

@@ -1,33 +1,22 @@
 # IDAB Information Assistant
 
-**Conversational access to organizational and project knowledge for the Informatics and Data Analytics Branch.**
+I developed the IDAB Information Assistant to make organizational and project knowledge easier to find through conversation.
 
-**Project type:** Knowledge-management agent  
-**Access:** Institutional application; authorized access may be required  
-**My role:** Knowledge organization, assistant use cases, interaction design, source curation, and refinement, as described in the portfolio
+**Focus:** Knowledge management and workforce integration  
+**Access:** Authorized institutional users
 
-## Purpose
+## What it supports
 
-The assistant extends the participatory onboarding knowledge system by helping users find project context, responsible contacts, subject-matter expertise, and connections across the work portfolio.
+The assistant helps users explore project context, find responsible contacts and subject-matter expertise, and understand connections across the Informatics and Data Analytics Branch portfolio.
 
-The intended value is easier self-service access to maintained organizational knowledge. That purpose does not establish measured accuracy, time savings, or usage outcomes; no agent-specific evaluation was supplied with this update.
+## My contribution
 
-## Open the application
+I organized the knowledge sources, designed assistant use cases and interaction flows, curated project information, and refined the experience through testing and feedback.
 
-[Open IDAB Information Assistant](https://rconnect.edav.cdc.gov/Idab_assistant/)
+The assistant extends my [participatory onboarding and relational knowledge-mapping project](../participatory-onboarding/README.md), making the shared knowledge resource available through self-service questions.
 
-The link was supplied by the project author. Availability, authentication requirements, and agent behavior could not be independently tested from this workspace.
+## Open the assistant
 
-## Relationship to the onboarding project
-
-[Read the participatory onboarding implementation summary](../participatory-onboarding/README.md). Its 34 participants, 81% participation, and 30 project and resource records describe the onboarding implementation, not agent performance.
-
-## Evidence and scope
-
-This summary combines the author-provided application link and prior portfolio description. The supplied onboarding manuscript documents the SharePoint and Power BI implementation; it does not independently validate the assistant. Internal prompts, staff information, source repositories, and conversation content are not included.
-
-## About this summary
-
-Prepared from author-provided project materials. This page describes Michael Sileshi Mekbib’s contribution to collaborative institutional work; it does not represent an official CDC endorsement or product release. Original presentations, manuscripts, institutional code, and internal records are not included here.
+[Launch IDAB Information Assistant](https://rconnect.edav.cdc.gov/Idab_assistant/)
 
 [Project hub](../../../README.md) · [Portfolio](https://michaelmekbib.github.io/portfolio/) · [Contact](mailto:mikiethio@gmail.com)
