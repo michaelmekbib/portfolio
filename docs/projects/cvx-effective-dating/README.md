@@ -2,7 +2,7 @@
 
 An editorial framework and AI-assisted evidence workflow for historical vaccine-code availability.
 
-**Status:** Capstone; validation in progress  
+**Status:** Ongoing  
 **Contribution:** Michael Sileshi Mekbib  
 **Repository contents:** Project case study. This directory contains documentation; institutional application source is not included.
 
